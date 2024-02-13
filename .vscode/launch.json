@@ -13,7 +13,6 @@
       "console": "integratedTerminal",
       "justMyCode": true,
       "env": {
-        "DEVELOPMENT": "TRUE"
       }
     },
     {
